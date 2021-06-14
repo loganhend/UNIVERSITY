@@ -1,7 +1,5 @@
 # IIT - Intelligent information technology
 
-Repository for university educational projects. You can see how I'm improving my skills.
-
 ## Lab1
 
 Learning to use header files and OOP basics.
