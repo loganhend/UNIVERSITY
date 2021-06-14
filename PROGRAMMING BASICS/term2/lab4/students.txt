@@ -1,0 +1,8 @@
+
+1.aaaaaa.egor.astma.1999.100
+2.bbbbb.nikita.astma.1998.200
+3.ccccc.egor.weelon.1997.300
+4.ddddd.sirgay.weelon.1986.400
+5.eeeeee.ivan.yashma.2000.500
+6.ffffff.evgen.astra.1996.600
+7.gggggg.evgen.astra.1777.700
